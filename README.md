@@ -44,12 +44,14 @@ We compare the original Konnakol audio with the Konnakol Typewriter-generated au
 
 ### Comparison Table:
 
-| **Audio**                        | **Original Konnakol Audio**                        | **Generated Konnakol Typewriter Audio**        |
-|-----------------------------------|----------------------------------------------------|----------------------------------------------|
-| [konnakol_sample_1.wav](data/audio/konnakol_sample_1.wav) | Original Konnakol Audio Sample 1                   | [Generated Sample 1](data/audio/gen_konnakol_sample_1.wav) |
-| [konnakol_sample_2.wav](data/audio/konnakol_sample_2.wav) | Original Konnakol Audio Sample 2                   | [Generated Sample 2](data/audio/gen_konnakol_sample_2.wav) |
+| **Konnakol Audio**                 | **Mridangam Audio**                          | **Konnakol Transcription**                  | **Konnakol Typewriter Output**               |
+|------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| [konnakol_sample_1.wav](data/audio/konnakol_sample_1.wav) | [mridangam_sample_1.wav](data/audio/mridangam_sample_1.wav) | ['num', -,-,-,'dhin', -,-,-]
+['num', -,-,-, 'dhin', -,-,-]
+['num', -, 'thom', -,'dhin',-,-,-]
+['num', -,-,-, 'dhin', -,-,-] | [gen_konnakol_sample_1.wav](data/audio/gen_konnakol_sample_1.wav) |
+| Konnakol Sample 1 for transcription  | Mridangam Sample 1 corresponding to Konnakol  | Transcription of Konnakol Sample 1           | Typewriter-generated Konnakol Audio for Sample 1 |
 
----
 
 
 ## Future Work
