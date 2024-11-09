@@ -18,12 +18,12 @@ The pipeline includes:
 
 ### Audio Samples and Transcriptions
 
-| **Mridangam Audio**                         | **Konnakol Audio**                         | **Transcription**                             |
-|---------------------------------------------|-------------------------------------------|-----------------------------------------------|
-| [![Mridangam Sample 1](https://img.shields.io/badge/play%20audio-Mridangam%20Sample%201-blue)](data/audio/mridangam_sample_1.wav) | [![Konnakol Sample 1](https://img.shields.io/badge/play%20audio-Konnakol%20Sample%201-blue)](data/audio/konnakol_sample_1.wav) | [mridangam_transcription_1.txt](data/transcriptions/mridangam_transcription_1.txt) |
-| Sample 1 for Mridangam transcription         | Sample 1 for Konnakol transcription        | Transcription of Mridangam Sample 1             |
-| [![Mridangam Sample 2](https://img.shields.io/badge/play%20audio-Mridangam%20Sample%202-blue)](data/audio/mridangam_sample_2.wav) | [![Konnakol Sample 2](https://img.shields.io/badge/play%20audio-Konnakol%20Sample%202-blue)](data/audio/konnakol_sample_2.wav) | [konnakol_transcription_1.txt](data/transcriptions/konnakol_transcription_1.txt) |
-| Sample 2 for Mridangam transcription         | Sample 2 for Konnakol transcription        | Transcription of Konnakol Sample 1             |
+| **Mridangam Audio**                         | **Konnakol Audio**                         | **Transcription**                              |
+|---------------------------------------------|-------------------------------------------|------------------------------------------------|
+| [mridangam_sample_1.wav](data/audio/mridangam_sample_1.wav) | [konnakol_sample_1.wav](data/audio/konnakol_sample_1.wav) | [transcription_1.txt](data/transcriptions/transcription_1.txt) |
+| Sample 1 for Mridangam transcription         | Sample 1 for Konnakol transcription        | Transcription of Mridangam and Konnakol Sample 1 |
+| [mridangam_sample_2.wav](data/audio/mridangam_sample_2.wav) | [konnakol_sample_2.wav](data/audio/konnakol_sample_2.wav) | [transcription_2.txt](data/transcriptions/transcription_2.txt) |
+| Sample 2 for Mridangam transcription         | Sample 2 for Konnakol transcription        | Transcription of Mridangam and Konnakol Sample 2 |
 
 ## Pipeline Diagrams
 
