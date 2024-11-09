@@ -35,7 +35,7 @@ Below are the pipeline diagrams that illustrate the overall process:
 ![Pipeline 2](data/images/pipeline_2.png)  
 *Pipeline diagram illustrating the transcription process for Konnakol and rhythmic sequence generation.*
 
-## Results
+## Sample Results
 
 ---
 
