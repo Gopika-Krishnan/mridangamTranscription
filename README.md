@@ -4,7 +4,7 @@ This repository contains the data, results, and pipeline for automatic transcrip
 
 We are building on the [**Konnakol Typewriter**](https://hatimbenhsain.github.io/konnakol%20app/) web application, which converts Konnakol sequences into Mridangam rhythms. Our work expands its functionality by integrating transcription and rhythmic sequence generation tools, and we eventually aim to introduce features like grammar checking and more advanced analysis tools.
 
-This work was carried out at the **Music and Sound Cultures (MASC) research group**, New York University Abu Dhabi, UAE.
+This work is carried out at the **Music and Sound Cultures (MASC) research group**, New York University Abu Dhabi, UAE.
 
 
 ## Project Overview
