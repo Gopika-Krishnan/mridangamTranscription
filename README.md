@@ -20,9 +20,9 @@ The pipeline includes:
 
 | **Mridangam Audio**                         | **Konnakol Audio**                         | **Transcription**                              |
 |---------------------------------------------|-------------------------------------------|------------------------------------------------|
-| [mridangam_sample_1.wav](data/audio/mridangam_sample_1.wav) | [konnakol_sample_1.wav](data/audio/konnakol_sample_1.wav) | [transcription_1.txt](data/transcriptions/transcription_1.txt) |
+| [mridangam_sample_1.wav](data/audio/mridangam_sample_1.wav) | [konnakol_sample_1.wav](data/audio/konnakol_sample_1.wav) | [transcription_1.txt](data/images/tr1.png) |
 | Sample 1 for Mridangam transcription         | Sample 1 for Konnakol transcription        | Transcription of Mridangam and Konnakol Sample 1 |
-| [mridangam_sample_2.wav](data/audio/mridangam_sample_2.wav) | [konnakol_sample_2.wav](data/audio/konnakol_sample_2.wav) | [transcription_2.txt](data/transcriptions/transcription_2.txt) |
+| [mridangam_sample_2.wav](data/audio/mridangam_sample_2.wav) | [konnakol_sample_2.wav](data/audio/konnakol_sample_2.wav) | [transcription_2.txt](data/images/tr2.png) |
 | Sample 2 for Mridangam transcription         | Sample 2 for Konnakol transcription        | Transcription of Mridangam and Konnakol Sample 2 |
 
 ## Pipeline Diagrams
