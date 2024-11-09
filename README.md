@@ -1,4 +1,4 @@
-# Mridangam Transcription and Konnakol Sequence Generation
+# Mridangam Stroke and Konnakol Sequence Transcription 
 
 This repository contains the data, results, and pipeline for automatic transcription of **Mridangam** (a South Indian percussion instrument) and **Konnakol** (a vocal percussion language) sequences. Our work involves converting audio recordings of Mridangam and Konnakol into transcriptions of syllables and generating rhythmic sequences based on those transcriptions.
 
