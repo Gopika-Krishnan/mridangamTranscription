@@ -40,7 +40,7 @@ Below are the pipeline diagrams that illustrate the overall process:
 ---
 
 ## Konnakol Typewriter Audio vs Original
-We compare the original Konnakol audio with the Konnakol Typewriter-generated audio. The results show the performance of our transcription-to-audio pipeline.
+We compare the original Konnakol audio with the Konnakol Typewriter-generated audio from the transcription results of the fine-tuned Whisper model. The results show the performance of our konnakol-transcription-to-audio pipeline.
 
 ### Comparison Table:
 
