@@ -20,9 +20,9 @@ The pipeline includes:
 
 | **Mridangam Audio**                         | **Konnakol Audio**                         | **Transcription**                             |
 |---------------------------------------------|-------------------------------------------|-----------------------------------------------|
-| ![Mridangam Sample 1](data/audio/mridangam_sample_1.wav) | ![Konnakol Sample 1](data/audio/konnakol_sample_1.wav) | [mridangam_transcription_1.txt](data/transcriptions/mridangam_transcription_1.txt) |
+| [![Mridangam Sample 1](https://img.shields.io/badge/play%20audio-Mridangam%20Sample%201-blue)](data/audio/mridangam_sample_1.wav) | [![Konnakol Sample 1](https://img.shields.io/badge/play%20audio-Konnakol%20Sample%201-blue)](data/audio/konnakol_sample_1.wav) | [mridangam_transcription_1.txt](data/transcriptions/mridangam_transcription_1.txt) |
 | Sample 1 for Mridangam transcription         | Sample 1 for Konnakol transcription        | Transcription of Mridangam Sample 1             |
-| ![Mridangam Sample 2](data/audio/mridangam_sample_2.wav) | ![Konnakol Sample 2](data/audio/konnakol_sample_2.wav) | [konnakol_transcription_1.txt](data/transcriptions/konnakol_transcription_1.txt) |
+| [![Mridangam Sample 2](https://img.shields.io/badge/play%20audio-Mridangam%20Sample%202-blue)](data/audio/mridangam_sample_2.wav) | [![Konnakol Sample 2](https://img.shields.io/badge/play%20audio-Konnakol%20Sample%202-blue)](data/audio/konnakol_sample_2.wav) | [konnakol_transcription_1.txt](data/transcriptions/konnakol_transcription_1.txt) |
 | Sample 2 for Mridangam transcription         | Sample 2 for Konnakol transcription        | Transcription of Konnakol Sample 1             |
 
 ## Pipeline Diagrams
