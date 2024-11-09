@@ -29,10 +29,10 @@ The pipeline includes:
 
 Below are the pipeline diagrams that illustrate the overall process:
 
-![Pipeline 1](images/pipeline_1.png)  
+![Pipeline 1](data/images/pipeline_1.png)  
 *Pipeline diagram illustrating the transcription process for Mridangam.*
 
-![Pipeline 2](images/pipeline_2.png)  
+![Pipeline 2](data/images/pipeline_2.png)  
 *Pipeline diagram illustrating the transcription process for Konnakol and rhythmic sequence generation.*
 
 ## Results
