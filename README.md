@@ -55,7 +55,6 @@ We compare the original Konnakol audio with the Konnakol Typewriter-generated au
 ## Future Work
 
 Future steps will include:
-- Expanding the dataset to improve model performance.
 - Refining the transcription models and enhancing rhythmic sequence generation.
 - Exploring real-time transcription and synthesis for live performances.
 - Grammar Check tool for Konnakol Sequences
