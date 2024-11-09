@@ -2,7 +2,7 @@
 
 This repository contains the data, results, and pipeline for automatic transcription of **Mridangam** (a South Indian percussion instrument) and **Konnakol** (a vocal percussion language) sequences. Our work involves converting audio recordings of Mridangam and Konnakol into transcriptions of syllables and generating rhythmic sequences based on those transcriptions.
 
-We are building on the **Konnakol Typewriter** web application, which converts Konnakol sequences into Mridangam rhythms. Our work expands its functionality by integrating transcription and rhythmic sequence generation tools, and we eventually aim to introduce features like grammar checking and more advanced analysis tools.
+We are building on the [**Konnakol Typewriter**](https://hatimbenhsain.github.io/konnakol%20app/) web application, which converts Konnakol sequences into Mridangam rhythms. Our work expands its functionality by integrating transcription and rhythmic sequence generation tools, and we eventually aim to introduce features like grammar checking and more advanced analysis tools.
 
 This work was carried out at the **Music and Sound Cultures (MASC) research group**, New York University Abu Dhabi, UAE.
 
